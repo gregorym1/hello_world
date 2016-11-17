@@ -1,2 +1,4 @@
 # hello_world
-[![Build Status](http://circleci-badges-max.herokuapp.com/img/:owner/:repo/:branch?token=:circle-ci-token)](https://circleci.com/gh/:owner/:repo/tree/:branch)
+[![Build Status](https://travis-ci.org/gregorym1/hello_world.svg?branch=master)](https://travis-ci.org/gregorym1/hello_world)
+[![CircleCI](https://circleci.com/gh/gregorym1/hello_world.svg?style=svg)](https://circleci.com/gh/gregorym1/hello_world)
+
